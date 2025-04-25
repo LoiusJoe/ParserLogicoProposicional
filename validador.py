@@ -1,3 +1,7 @@
+# Diego Henrique Zanella
+# Gabriel Hortmann de Campos Bueno
+# Jonathan Domingos Rodrigues
+
 import sys
 import re
 
