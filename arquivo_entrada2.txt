@@ -1,0 +1,13 @@
+12
+true
+false
+0
+(\neg 0)
+(\wedge 0 1)
+(neg 0)
+false)
+(\vee a b)
+(\leftrightarrow)
+(\rightarrow 0 P1)
+(\wedge 0 1 2)
+(\neg \neg 0)

@@ -1,0 +1,11 @@
+10
+true
+(\neg 0)
+(\wedge 0 1)
+P0
+(\vee)
+(\rightarrow 0)
+(\vee (\neg 2) (\rightarrow 3 4))
+(\leftrightarrow 0 (\wedge 1 2))
+(\neg (\neg (\neg 5)))
+(\wedge (\vee 0 1) (\rightarrow 2xyz 3abc))

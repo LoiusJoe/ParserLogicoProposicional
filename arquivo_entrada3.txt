@@ -1,0 +1,16 @@
+15
+\neg 0
+(\wedge P0 1)
+(0 \vee 1)
+(\neg 0)
+(\vee 0 1)
+(\leftrightarrow 0abc 1xyz)
+(\neg true
+(\wedge 0)
+(\vee \neg 0 1)
+\rightarrow 0 1
+(\neg (\neg (\neg 0)))
+(\wedge 0 (\vee 1 2))
+(\rightarrow (\neg 0) 1)
+(\vee true false)
+(\leftrightarrow (\wedge (\neg 0) 1) (\vee (\rightarrow 2 3) 4))
